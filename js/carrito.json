@@ -1,0 +1,37 @@
+[
+{
+    "id": 1,
+    "poster": "/images/torta forrada.jpeg",
+    "nombre": "Torta Forrada",
+    "precio": "1400"
+},
+
+{
+    "id": 2,
+
+    "poster": "/images/espatulada.jpeg",
+    "nombre": "Torta Espatulada",
+    "precio": "1200"
+},
+
+{
+    "id": 3,
+    "poster": "/images/cakepop.jpeg",
+    "nombre": "Cake Pop",
+    "precio": "1000"
+},
+
+{
+    "id": 4,
+    "poster": "/images/cupc.jpeg",
+    "nombre": "Cupcakes",
+    "precio": "1150"
+},
+
+{
+    "id": 5,
+    "poster": "/images/oreodeco.jpeg",
+    "nombre": "Oreos Deco",
+    "precio": "800"
+}
+]
